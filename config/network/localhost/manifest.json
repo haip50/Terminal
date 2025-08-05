@@ -1,6 +1,6 @@
 {
     "year": "2237",
-    "serverAddress": "Ypsilon-14",
+    "serverAddress": "localhost",
     "serverName": "MAIN",
     "iconName": "icon.png",
     "terminalID": "Term-01",
