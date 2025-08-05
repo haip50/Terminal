@@ -1,13 +1,13 @@
 {
-    "year": "2237",
     "serverAddress": "localhost",
-    "serverName": "MAIN",
+    "year": "5555",
+    "serverName": "Yp14",
     "iconName": "icon.png",
     "terminalID": "Term-01",
     "defaultUser": {
-        "userId": "default",
+        "userId": "user",
         "password": "",
-        "userName": "Default"
+        "userName": "User"
     },
     "initialHistory": {
         "user": [
