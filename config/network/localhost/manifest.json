@@ -1,13 +1,13 @@
 {
     "year": "2237",
     "serverAddress": "Ypsilon-14",
-    "serverName": "Ypsilon-14",
-    "iconName": "Moon-icon.png",
+    "serverName": "MAIN SERVER",
+    "iconName": "icon.png",
     "terminalID": "STATION-01",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "USER"
+        "userName": "User"
     },
     "initialHistory": {
         "user": [
