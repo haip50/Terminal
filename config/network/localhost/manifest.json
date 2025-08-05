@@ -1,13 +1,13 @@
 {
     "year": "2237",
     "serverAddress": "Ypsilon-14",
-    "serverName": "MAIN SERVER",
+    "serverName": "MAIN",
     "iconName": "icon.png",
-    "terminalID": "STATION-01",
+    "terminalID": "Term-01",
     "defaultUser": {
-        "userId": "user",
+        "userId": "default",
         "password": "",
-        "userName": "User"
+        "userName": "Default"
     },
     "initialHistory": {
         "user": [
