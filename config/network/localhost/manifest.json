@@ -8,14 +8,5 @@
         "userId": "user",
         "password": "",
         "userName": "User"
-    },
-    "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
-        "admin": [
-            "ping fbi.gov"
-        ]
     }
-}
 
