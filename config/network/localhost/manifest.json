@@ -1,6 +1,6 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "Ypsilon-14",
+    "serverName": "Ypsilon-14",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
